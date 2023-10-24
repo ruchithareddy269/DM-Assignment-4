@@ -8,8 +8,8 @@ The following three tasks need to be done
 
 EDA with D3.js    
 Auto EDA with Sweetviz  
-Apache Beam in Colab
-__EDA with D3.js in Colab__
+Apache Beam in Colab   
+__Part1-EDA with D3.js in Colab__
 
 Dataset Selection: A complex dataset from Kaggle.
 Goal: Utilize D3.js for exploratory data analysis within Colab.
@@ -18,8 +18,8 @@ Structure:
 Introduction: Brief about the chosen dataset and the objectives of the analysis.
 Data Loading and Preprocessing: Loading, cleaning, and preparing data for visualization.
 D3.js Visualizations: Employing JavaScript cells in Colab for D3 visualizations.
-Conclusion: Insights and findings from the visualizations.
-__Auto EDA__
+Conclusion: Insights and findings from the visualizations.    
+__Part2-Auto EDA__
 
 Dataset Selection: A chosen dataset from Kaggle.
 Objective: Conduct an automatic EDA using tools like Pandas Profiler or Sweetviz.
@@ -28,8 +28,8 @@ Structure:
 Introduction: Rationale behind the dataset and tool selection.
 Data Loading: Importing the dataset into Colab.
 EDA with Tool: Generating an EDA report with the chosen tool.
-Observations: Key insights and findings from the auto EDA.
-__Apache Beam in Colab__
+Observations: Key insights and findings from the auto EDA.    
+__Part3-Apache Beam in Colab__
 Dataset Selection: A dataset that showcases Apache Beam's features.
 
 Objective: Set up and demonstrate Apache Beam's capabilities within Google Colab.
