@@ -44,5 +44,5 @@ Showcasing the Features of Apache Beam: sections that go into great detail about
 
 summary: An overview of the research and results.    
 
-Final Steps
+__Final Steps__:
 Every assignment offers the chance to delve deeply into the field of data analysis using a variety of instruments and methods. The foundation for comprehending the different aspects of data exploration and visualization is provided by these assignments.
