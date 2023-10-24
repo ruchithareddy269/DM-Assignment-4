@@ -31,6 +31,7 @@ Introduction: Rationale behind the dataset and tool selection.
 Data Loading: Importing the dataset into Colab.
 EDA with Tool: Generating an EDA report with the chosen tool.
 Observations: Key insights and findings from the auto EDA.    
+
 __Part3-Apache Beam in Colab__
 
 Dataset:A dataset that showcases Apache Beam's features.
