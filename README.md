@@ -13,7 +13,7 @@ Apache Beam in Colab
 
 __Part1-EDA with D3.js in Colab__
 
-Dataset : A complex dataset from Kaggle.
+Dataset: A complex dataset from Kaggle.
 Goal: Utilize D3.js for exploratory data analysis within Colab.
 
 Introduction: Brief about the chosen dataset and the objectives of the analysis.
@@ -23,8 +23,8 @@ Conclusion: Insights and findings from the visualizations.
 
 __Part2-Auto EDA__
 
-Dataset : A chosen dataset from Kaggle.
-Objective: Conduct an automatic EDA using tools like Pandas Profiler or Sweetviz.
+Dataset: A chosen dataset from Kaggle.
+Goal: Conduct an automatic EDA using tools like Pandas Profiler or Sweetviz.
 
 
 Introduction: Rationale behind the dataset and tool selection.
@@ -33,9 +33,9 @@ EDA with Tool: Generating an EDA report with the chosen tool.
 Observations: Key insights and findings from the auto EDA.    
 __Part3-Apache Beam in Colab__
 
-Dataset : A dataset that showcases Apache Beam's features.
+Dataset:A dataset that showcases Apache Beam's features.
 
-Objective: Set up and demonstrate Apache Beam's capabilities within Google Colab.
+Goal: Set up and demonstrate Apache Beam's capabilities within Google Colab.
 
 
 Introduction: Introduction to Apache Beam and its relevance.
